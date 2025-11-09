@@ -1,0 +1,135 @@
+{
+  "nav": {
+    "about": "Acerca de",
+    "experience": "Experiencia",
+    "skills": "Habilidades",
+    "education": "Educación",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Juan Morales",
+    "title": "Ingeniero de Software",
+    "subtitle": "Construyendo experiencias web hermosas y funcionales",
+    "cta": "Contáctame",
+    "viewWork": "Ver mi trabajo"
+  },
+  "about": {
+    "title": "Acerca de Mí",
+    "description": "Soy Ingeniero de Software con más de 6 años de experiencia en desarrollo web usando React como framework. También he trabajado en proyectos móviles y backend en paralelo. Experiencia desarrollando características complejas para startups y grandes empresas, principalmente en Estados Unidos, en diversas industrias como e-commerce, entrega de comida, logística de carga y gestión de recursos humanos.",
+    "passion": "Me apasiona entender cómo funcionan las cosas, ya sea en tecnología, música, física o diseño. Encuentro motivación en crear y apreciar soluciones bien diseñadas, funcionales y hermosas.",
+    "location": "Medellín, Colombia"
+  },
+  "experience": {
+    "title": "Experiencia Laboral",
+    "present": "Presente",
+    "jobs": [
+      {
+        "id": "humand",
+        "title": "Ingeniero de Software",
+        "company": "Humand",
+        "location": "Remoto",
+        "period": "Nov 2023 — Presente",
+        "description": "Parte del equipo que maneja encuestas de clima en la plataforma. Creé visualizaciones de datos, siendo lo más destacado un mapa de calor que permite a los usuarios administradores analizar respuestas de usuarios finales. Colaboré en el sistema de diseño interno y manejo periódicamente los lanzamientos semanales."
+      },
+      {
+        "id": "leantech",
+        "title": "Ingeniero de Software",
+        "company": "Lean Tech",
+        "location": "Medellín, Colombia",
+        "period": "May 2021 — Oct 2023",
+        "description": "Ingeniero de Software y Mentor con más de 2 años de experiencia remota en una empresa tecnológica de logística de carga con sede en Chicago. Especializado en desarrollo frontend con React, micro aplicaciones web y estrategia de monorepo. Responsable de la implementación de UI y mantenimiento de un proyecto Backend For Frontend (BFF) basado en NestJS. Mentoría activa a colegas y contribución al éxito del proyecto de visibilidad de la cadena de suministro."
+      },
+      {
+        "id": "team",
+        "title": "Desarrollador Frontend",
+        "company": "TEAM International",
+        "location": "Medellín, Colombia",
+        "period": "Feb 2021 — May 2021",
+        "description": "Usando componentes Aura y Lightning, fui parte del equipo frontend para una empresa con sede en Texas que construyó plugins y extensiones para Salesforce."
+      },
+      {
+        "id": "wolox",
+        "title": "Desarrollador Frontend",
+        "company": "Wolox",
+        "location": "Medellín, Colombia",
+        "period": "Jul 2019 — Feb 2021",
+        "description": "Desarrollo frontend usando React y tecnologías web modernas para varios proyectos de clientes."
+      }
+    ]
+  },
+  "skills": {
+    "title": "Habilidades y Tecnologías",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "mobile": "Móvil",
+      "tools": "Herramientas y Otros"
+    },
+    "list": {
+      "react": "React",
+      "typescript": "TypeScript",
+      "javascript": "JavaScript",
+      "html": "HTML/CSS",
+      "reactNative": "React Native",
+      "nodejs": "Node.js",
+      "nextjs": "Next.js",
+      "tailwind": "Tailwind CSS",
+      "git": "Git",
+      "d3": "D3.js"
+    }
+  },
+  "education": {
+    "title": "Educación",
+    "degree": "Ingeniero de Sistemas",
+    "institution": "Universidad de Antioquia",
+    "location": "Medellín, Colombia",
+    "period": "Sep 2014 — Dic 2023",
+    "description": "Graduado con énfasis en desarrollo de software. El proyecto final se centró en visualización y análisis de datos, construyendo una aplicación web para mostrar resultados del análisis de lípidos. Los datos fueron recolectados de muestras biológicas y analizados con Python usando técnicas de análisis de datos multi y univariados. La visualización de datos fue diseñada con D3 sobre una aplicación React hecha con Next.js. Colaboré con el Grupo de Investigación en Neurobiología de la Universidad de Antioquia."
+  },
+  "projects": {
+    "title": "Proyectos y Actividades",
+    "items": [
+      {
+        "id": "wonderroom",
+        "title": "Líder Frontend",
+        "organization": "Wonder Room",
+        "period": "Nov 2024 — Presente",
+        "description": "Liderando el desarrollo frontend para una startup que usa tecnología blockchain para crear NFTs de instrumentos musicales. Colaboro en el pensamiento de producto y diseño UI/UX en mi tiempo libre."
+      },
+      {
+        "id": "mentor",
+        "title": "Mentor",
+        "organization": "Lean Tech",
+        "period": "Jun 2022 — Dic 2022",
+        "description": "Entrené a un colega que necesitaba más experiencia en React. Diseñé un currículo, implementé rúbricas y establecí una metodología que se adaptó mejor a las necesidades del aprendiz."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contáctame",
+    "description": "Siempre estoy abierto a discutir nuevos proyectos, ideas creativas u oportunidades para ser parte de tus visiones. ¡No dudes en contactarme!",
+    "email": "Correo",
+    "phone": "Teléfono",
+    "location": "Ubicación",
+    "social": "Redes",
+    "sendMessage": "Enviar mensaje"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados",
+    "madeWith": "Hecho con",
+    "and": "y"
+  },
+  "hobbies": {
+    "title": "Cuando no estoy programando",
+    "list": ["Música", "Arte", "Senderismo", "Películas", "Videojuegos"]
+  },
+  "languages": {
+    "title": "Idiomas",
+    "spanish": "Español",
+    "english": "Inglés",
+    "native": "Nativo",
+    "fluent": "Fluido"
+  }
+}

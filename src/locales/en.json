@@ -1,0 +1,135 @@
+{
+  "nav": {
+    "about": "About",
+    "experience": "Experience",
+    "skills": "Skills",
+    "education": "Education",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Juan Morales",
+    "title": "Software Engineer",
+    "subtitle": "Building beautiful and functional web experiences",
+    "cta": "Get in touch",
+    "viewWork": "View my work"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I'm a Software Engineer with 6+ years of experience in web development using React as a framework. I have also worked on mobile and backend projects in parallel. Experienced in developing complex features for startups and large companies, primarily in the USA, across diverse industries such as e-commerce, food delivery, freight logistics, and HR management.",
+    "passion": "I'm passionate about understanding how things work, whether in technology, music, physics, or design. I find motivation in creating and appreciating well-engineered, functional, and beautiful solutions.",
+    "location": "Medellín, Colombia"
+  },
+  "experience": {
+    "title": "Work Experience",
+    "present": "Present",
+    "jobs": [
+      {
+        "id": "humand",
+        "title": "Software Engineer",
+        "company": "Humand",
+        "location": "Remote",
+        "period": "Nov 2023 — Present",
+        "description": "Part of the team handling climate surveys in the platform. Created data visualizations, with the most remarkable being a Heat map that allows admin users to analyze answers from end users. Collaborated in the internal design system and periodically handle weekly releases."
+      },
+      {
+        "id": "leantech",
+        "title": "Software Engineer",
+        "company": "Lean Tech",
+        "location": "Medellín, Colombia",
+        "period": "May 2021 — Oct 2023",
+        "description": "Software Engineer and Mentor with 2+ years of remote experience at a Chicago-based Freight Hub Tech company. Specialized in front-end development with React, micro web apps, and monorepo strategy. Responsible for UI implementation and maintaining a NestJS-based Backend For Frontend (BFF) project. Actively mentored colleagues and contributed to the success of the account supply chain visibility project."
+      },
+      {
+        "id": "team",
+        "title": "Frontend Developer",
+        "company": "TEAM International",
+        "location": "Medellín, Colombia",
+        "period": "Feb 2021 — May 2021",
+        "description": "Using Aura and Lightning Components, was part of the front-end team for a Texas-based company that built plugins and extensions for Salesforce."
+      },
+      {
+        "id": "wolox",
+        "title": "Frontend Developer",
+        "company": "Wolox",
+        "location": "Medellín, Colombia",
+        "period": "Jul 2019 — Feb 2021",
+        "description": "Frontend development using React and modern web technologies for various client projects."
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills & Technologies",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "mobile": "Mobile",
+      "tools": "Tools & Others"
+    },
+    "list": {
+      "react": "React",
+      "typescript": "TypeScript",
+      "javascript": "JavaScript",
+      "html": "HTML/CSS",
+      "reactNative": "React Native",
+      "nodejs": "Node.js",
+      "nextjs": "Next.js",
+      "tailwind": "Tailwind CSS",
+      "git": "Git",
+      "d3": "D3.js"
+    }
+  },
+  "education": {
+    "title": "Education",
+    "degree": "Systems Engineer",
+    "institution": "University of Antioquia",
+    "location": "Medellín, Colombia",
+    "period": "Sep 2014 — Dec 2023",
+    "description": "Graduated with software development emphasis. Final project focused on data visualization and analysis, building a web application to display results from lipids analysis. Data was collected from biological samples and analyzed with Python using multi and univariate data analysis techniques. Data visualization was engineered with D3 over a React application made with Next.js. Collaborated with the University of Antioquia's Neurobiology Research Group."
+  },
+  "projects": {
+    "title": "Projects & Activities",
+    "items": [
+      {
+        "id": "wonderroom",
+        "title": "Frontend Leader",
+        "organization": "Wonder Room",
+        "period": "Nov 2024 — Present",
+        "description": "Leading frontend development for a startup using blockchain technology to create NFTs from musical instruments. Collaborate in product thinking and UI/UX design in my free time."
+      },
+      {
+        "id": "mentor",
+        "title": "Mentor",
+        "organization": "Lean Tech",
+        "period": "Jun 2022 — Dec 2022",
+        "description": "Trained a colleague needing more React experience. Designed a curriculum, implemented rubrics, and established a methodology that best suited the mentee's needs."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "description": "I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location",
+    "social": "Social",
+    "sendMessage": "Send a message"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "madeWith": "Made with",
+    "and": "and"
+  },
+  "hobbies": {
+    "title": "When I'm not coding",
+    "list": ["Music", "Art", "Hiking", "Movies", "Video Games"]
+  },
+  "languages": {
+    "title": "Languages",
+    "spanish": "Spanish",
+    "english": "English",
+    "native": "Native",
+    "fluent": "Fluent"
+  }
+}
